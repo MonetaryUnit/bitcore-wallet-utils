@@ -12,14 +12,14 @@
     "utils"
   ],
   "repository": {
-    "url": "git@github.com:bitpay/bitcore-wallet-utils.git",
+    "url": "git@github.com:MonetaryUnit/bitcore-wallet-utils.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-wallet-utils/issues"
+    "url": "https://github.com/MonetaryUnit/bitcore-wallet-utils/issues"
   },
   "dependencies": {
-    "bitcore": "^0.12.9",
+    "bitcore": "MonetaryUnit/bitcore#MUE",
     "coveralls": "^2.11.2",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^3.3.1",

@@ -5,7 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/bitpay/bitcore-wallet-utils/badge.svg?branch=master)](https://coveralls.io/r/bitpay/bitcore-wallet-utils?branch=master)
 
 
-Common Library for [bitcore wallet service](https://github.com/bitpay/bitcore-wallet-service) and [client](https://github.com/bitpay/bitcore-wallet-client).
+Common Library for [bitcore wallet service](https://github.com/MonetaryUnit/bitcore-wallet-service) and [client](https://github.com/MonetaryUnit/bitcore-wallet-client).
 
 
 
